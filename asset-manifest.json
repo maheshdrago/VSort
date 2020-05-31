@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VSort/static/css/main.9ebdc0b0.chunk.css",
+    "main.js": "/VSort/static/js/main.5fff3aa8.chunk.js",
+    "main.js.map": "/VSort/static/js/main.5fff3aa8.chunk.js.map",
+    "runtime-main.js": "/VSort/static/js/runtime-main.286bb723.js",
+    "runtime-main.js.map": "/VSort/static/js/runtime-main.286bb723.js.map",
+    "static/js/2.876611bc.chunk.js": "/VSort/static/js/2.876611bc.chunk.js",
+    "static/js/2.876611bc.chunk.js.map": "/VSort/static/js/2.876611bc.chunk.js.map",
+    "index.html": "/VSort/index.html",
+    "precache-manifest.df0f63cb6f7992ee6daf5fc698ed4ef1.js": "/VSort/precache-manifest.df0f63cb6f7992ee6daf5fc698ed4ef1.js",
+    "service-worker.js": "/VSort/service-worker.js",
+    "static/css/main.9ebdc0b0.chunk.css.map": "/VSort/static/css/main.9ebdc0b0.chunk.css.map",
+    "static/js/2.876611bc.chunk.js.LICENSE.txt": "/VSort/static/js/2.876611bc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.286bb723.js",
+    "static/js/2.876611bc.chunk.js",
+    "static/css/main.9ebdc0b0.chunk.css",
+    "static/js/main.5fff3aa8.chunk.js"
+  ]
+}
